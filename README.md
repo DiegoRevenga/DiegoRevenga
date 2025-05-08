@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+😄 I'm Diego, a software engineer.
+
+🐕 Currently working at Datadog!
+
+📌 I live in Madrid, Spain.
+
+🌐 My personal website: [diegorevenga.com](https://www.diegorevenga.com)
